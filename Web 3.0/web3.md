@@ -10,13 +10,13 @@ tags:
 draft: false
 ---
 
-![Web 3](images\web3-intro2.jpeg)
+![Web 3](https://www.verdict.co.uk/wp-content/uploads/2022/12/Shutterstock_2183804245.jpg)
 
 ## Introduction to Web 3
 
 **Web 3**, also known as **Web 3.0**, represents the next phase in the evolution of the internet, shifting from a centralized model to a more decentralized framework. Unlike **Web 1.0**, which was characterized by static web pages, and **Web 2.0**, which introduced dynamic content and social media interactivity, Web 3 aims to enhance user sovereignty, data security, and privacy. This transformation is driven by **blockchain technology**, **decentralized applications (dApps)**, and **smart contracts**, aiming to create an internet that is open, trustless, and permissionless.
 
-![Web 3](images\comp.png)
+![Web 3](https://bunny-wp-pullzone-nb318evfcx.b-cdn.net/wp-content/uploads/2022/09/i592.png)
 
 ## Key Components of Web 3
 
@@ -95,7 +95,7 @@ The future of Web 3 is promising, with continuous advancements in technology and
 
 Web 3 represents a revolutionary shift towards a more decentralized, transparent, and user-centric internet. By leveraging **blockchain**, **smart contracts**, **dApps**, and other innovative technologies, Web 3 aims to overcome the limitations of its predecessors and create a more equitable digital landscape. While challenges remain, the potential benefits of Web 3 make it a crucial area of development for the future of the internet.
 
-![Web 3](images\web2.jpeg)
+![Web 3](https://miro.medium.com/v2/resize:fit:1400/1*5fLjOFTilr6T9OjVWkH2ow.png)
 
 ## Learn More About Web 3.0
 
